@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">May17th_1</string>
+    <string name="my_custom_account">Webnish</string>
+    <string name="account_exists">Account already exists</string>
+    <string name="title_activity_authenticator">AuthenticatorActivity</string>
+</resources>
