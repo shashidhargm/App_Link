@@ -3,6 +3,10 @@
 <sync-adapter
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:contentAuthority="com.android.contacts"
-    android:accountType="com.example.shashidhar.may17th_1"
+    android:accountType="com.webnish.reach.contacts"
     android:supportsUploading="false"
-    android:userVisible="true" />
+    android:userVisible="true"
+    android:allowParallelSyncs="false"
+    android:isAlwaysSyncable="true"
+    android:syncable="true"
+    />

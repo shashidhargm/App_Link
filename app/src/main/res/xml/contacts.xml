@@ -2,8 +2,9 @@
 <ContactsSource
     xmlns:android="http://schemas.android.com/apk/res/android">
     <ContactsDataKind
-        android:mimeType="vnd.android.cursor.item/com.example.shashidhar.may17th_1"
         android:icon="@mipmap/ic_launcher"
+        android:mimeType="vnd.android.cursor.item/com.webnish.reach.contacts"
         android:summaryColumn="data2"
-        android:detailColumn="data3" />
+        android:detailColumn="data3"
+        />
 </ContactsSource>
